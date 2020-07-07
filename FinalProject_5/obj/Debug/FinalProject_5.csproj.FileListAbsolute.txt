@@ -1,0 +1,14 @@
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\bin\Debug\FinalProject_5.exe.config
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\bin\Debug\FinalProject_5.exe
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\bin\Debug\FinalProject_5.pdb
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\obj\Debug\FinalProject_5.csprojAssemblyReference.cache
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\obj\Debug\MainWindow.g.cs
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\obj\Debug\App.g.cs
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\obj\Debug\FinalProject_5_MarkupCompile.cache
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\obj\Debug\FinalProject_5_MarkupCompile.lref
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\obj\Debug\MainWindow.baml
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\obj\Debug\FinalProject_5.g.resources
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\obj\Debug\FinalProject_5.Properties.Resources.resources
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\obj\Debug\FinalProject_5.csproj.GenerateResource.cache
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\obj\Debug\FinalProject_5.exe
+C:\Users\mmohitku\Desktop\C# Projects\FinalProject_5\FinalProject_5\obj\Debug\FinalProject_5.pdb
